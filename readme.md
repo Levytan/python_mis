@@ -1,6 +1,8 @@
 # Môi trường làm việc
 Python 3.10 trở lên, tại tại [đây](https://www.python.org/downloads/).\
+![Tải python](media/python.png)
 Visual Studio Code (VSCode), tải tại [đây](https://code.visualstudio.com/), hoặc Jupyter Lab (hướng dẫn cài ở phần sau).
+![Tải VSCode](media/vscode.png)
 # Cài đặt và sử dụng
 ## Với VSCode
 1. Tải và cài đặt Python.
