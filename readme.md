@@ -10,6 +10,7 @@ Visual Studio Code (VSCode), tải tại [đây](https://code.visualstudio.com/)
 3. Mở VSCode, vào phần Extension (Ctrl + Shift + X).
 
 Để sử dụng, mở VSCode và tạo một file mới với đuôi là `.ipynb`.
+
 ![Sử dụng](media/hello.png)
 ## Với Jupyter Lab
 1. Tải và cài đặt Python.
@@ -24,6 +25,7 @@ Nếu thực hiện thành công, có thể chuyển qua bước 4, nếu không
     python "D:\get-pip.py"
 ```
 Kiểm tra cài đặt thành công bằng cách chạy `pip -V`.
+
 ![Cài đặt thành công](media/pip.png)
 
 4. Thực hiện lần lượt các câu lệnh sau.
