@@ -1,6 +1,6 @@
 # Giới thiệu
 ## Tập hợp Mandelbrot
-Tập hợp Mandelbrot là tập hợp tất cả những điểm $c$ trên mặt phẳng phức sao cho chuỗi ${\{z_{n}\}}_{n \in \mathbb{N}}$ được định nghĩa bởi
+Tập hợp Mandelbrot là tập hợp tất cả những điểm $c$ trên mặt phẳng phức sao cho chuỗi $\{z_{n}\}_{n \in \mathbb{N}}$ được định nghĩa bởi
 ```math
 \left\{\begin{matrix}
 _cz_0 &= &c &\\ 
