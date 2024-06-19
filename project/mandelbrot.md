@@ -1,15 +1,15 @@
-# Giới thiệu
-## Tập hợp Mandelbrot
-Tập hợp Mandelbrot là tập hợp tất cả những điểm $c$ trên mặt phẳng phức sao cho chuỗi $\{z_{n}\}_{n \in \mathbb{N}}$ được định nghĩa bởi
-```math
-\left\{\begin{matrix}
-_cz_0 &= &c &\\ 
-_cz_{n+1} &= &_cz_n^2 + c & (n \geq 1) 
-\end{matrix}\right.
-```
-hội tụ khi $n \rightarrow \infty$.
+# Nộp bài
+[Nộp bài tại đây](https://forms.gle/1KxV8ko8nRQ5GEAJA)
 
-Người ta chứng minh được rằng nếu tồn tại $n$ sao cho $|_cz_n| > 2$ ($|x|$ là mô-đun của số phức $x$) thì $c$ sẽ không thuộc tập hợp Mandelbrot.
-## Nội dung
-Trong bài tập lớn này, sinh viên cần tạo ra một video dài 30s với chất lượng tối thiểu 720p và 30 FPS để biểu diễn quá trình phóng to tập Mandelbrot tại một điểm cho trước.
-![Minh họa](../media/bw20.mp4)
+Hạn chót: trước 26.06.2024
+# Danh sách điểm tham khảo
+|Điểm|Độ phóng to|Hình|
+|--|--|--|
+|$z = 0.36012495496970987 + 0.6413889981997319$|$10^9$|![Hình 1](s1.png)|
+|$z = -1.47984833746414734534 + 0.00066576418928612215i$|$10^9$|![Hình 2](s2.png)|
+|$z = -1.25356252951350710667 + 0.02553043144876817119i$|$10^9$|![Hình 3](s3.png)|
+|$z = -0.76397183292658721321 + 0.09235782346790818997i$|$10^5$|![Hình 4](s4.png)|
+|$z = -0.17141957653479448 + 0.6496828765345691i$|$10^{10}$|![Hình 5](s5.png)|
+|$z = -1.2550002869018848 + 0.032213720733616086i$|$10^{12}$|![Hình 6](s6.png)|
+|$z = -0.12210737590231898753 + -0.83875702021806197717i$|$10^7$|![Hình 7](s7.png)|
+|$z = -0.743643135 + 0.131825963i$|$10^6$|![Hình 8](s8.png)|
